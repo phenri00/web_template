@@ -1,2 +1,2 @@
-# web_template
+# A web template
 
